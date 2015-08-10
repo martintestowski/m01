@@ -1,0 +1,3 @@
+testovaci soubor
+aaa
+bbb
