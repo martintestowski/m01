@@ -1,1 +1,0 @@
-uplne novy mergnute
